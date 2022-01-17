@@ -1,13 +1,13 @@
 # GoDiscordBot Template
 GoDiscordBot is a Discord bot template repository that helps you quickly get started builing a Discord bot in go.
 
-Get GoDiscordBot in your discord [here](https://link-to-bot.com.
+Get GoDiscordBot in your discord [here](https://link-to-bot.com).
 
 Bot Commands:
 ```
-/command1 - does this
-/command2 - does this 
-/command3 - does this
+/play <url> - stream a specific song
+/command2   - does this 
+/command3   - does this
 ```
 
 ## Development:
